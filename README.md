@@ -1,4 +1,4 @@
-# SML-product -- Ez lesz itt a fő termék
+# SML-product
 
 Arany János: Toldi
 
