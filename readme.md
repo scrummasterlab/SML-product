@@ -1,3 +1,3 @@
 # SML product
 
-Újabb sorokat adunk ide.
+Ujabb sorokat adunk ide.
