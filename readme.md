@@ -1,4 +1,4 @@
 # SML product
 
 Ujabb sorokat adunk ide.
-Ez itt a második sor.
+Ez itt a masodik sor.
