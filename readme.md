@@ -12,3 +12,7 @@ Irom az uj dolgokat.
 2025.01.27.
 
 Uj sor, ami lehet kod is.
+
+JIRA-125
+
+Uj kod, beirom.
