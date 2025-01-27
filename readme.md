@@ -3,5 +3,7 @@
 Ujabb sorokat adunk ide.
 Ez itt a masodik sor.
 
-Hozzad masik szoveget
-es hozzatesz megegy sort.
+HozzaADOK SORT
+Kicsit itt beszrok egy sort.
+Meg megegyet igy.
+
