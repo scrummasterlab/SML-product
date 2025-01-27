@@ -7,3 +7,4 @@ HozzaADOK SORT
 Kicsit itt beszrok egy sort.
 Meg megegyet igy.
 
+Irom az új dolgokat.
