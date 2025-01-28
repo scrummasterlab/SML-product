@@ -6,3 +6,6 @@ Elso lepesek
 
 Masodik lepes
 1. Stakeholderek megnevezese
+
+Harmadik lepes
+1. Workshop leszallitasa
