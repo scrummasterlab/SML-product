@@ -6,3 +6,4 @@ Elso lepesek
 
 Masodik lepes
 1. Stakeholderek megnevezese
+2. Stakeholderekkel workshop megtervezese
